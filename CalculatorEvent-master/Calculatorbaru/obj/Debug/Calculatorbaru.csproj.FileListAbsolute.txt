@@ -1,0 +1,11 @@
+E:\College\SEMESTER 3\Pemrograman lanjut\02 Tugas Delegate dan Event\CalculatorEvent-master\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.csprojAssemblyReference.cache
+E:\College\SEMESTER 3\Pemrograman lanjut\02 Tugas Delegate dan Event\CalculatorEvent-master\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.Form1.resources
+E:\College\SEMESTER 3\Pemrograman lanjut\02 Tugas Delegate dan Event\CalculatorEvent-master\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.Form2.resources
+E:\College\SEMESTER 3\Pemrograman lanjut\02 Tugas Delegate dan Event\CalculatorEvent-master\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.csproj.GenerateResource.cache
+E:\College\SEMESTER 3\Pemrograman lanjut\02 Tugas Delegate dan Event\CalculatorEvent-master\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.csproj.CoreCompileInputs.cache
+E:\College\SEMESTER 3\Pemrograman lanjut\02 Tugas Delegate dan Event\CalculatorEvent-master\CalculatorEvent-master\Calculatorbaru\bin\Debug\Calculatorbaru.exe.config
+E:\College\SEMESTER 3\Pemrograman lanjut\02 Tugas Delegate dan Event\CalculatorEvent-master\CalculatorEvent-master\Calculatorbaru\bin\Debug\Calculatorbaru.exe
+E:\College\SEMESTER 3\Pemrograman lanjut\02 Tugas Delegate dan Event\CalculatorEvent-master\CalculatorEvent-master\Calculatorbaru\bin\Debug\Calculatorbaru.pdb
+E:\College\SEMESTER 3\Pemrograman lanjut\02 Tugas Delegate dan Event\CalculatorEvent-master\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.Properties.Resources.resources
+E:\College\SEMESTER 3\Pemrograman lanjut\02 Tugas Delegate dan Event\CalculatorEvent-master\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.exe
+E:\College\SEMESTER 3\Pemrograman lanjut\02 Tugas Delegate dan Event\CalculatorEvent-master\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.pdb
